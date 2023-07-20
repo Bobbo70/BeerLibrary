@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BeerbliotekWebApplication
+build_property.RootNamespace = BeerbliotekWebApplication
+build_property.ProjectDir = C:\Users\tronn\OPA22\Oop_Avancerad\Inlämningsuppgift3\Beerbliotek\BeerbliotekWebApplication\BeerbliotekWebApplication\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tronn\OPA22\Oop_Avancerad\Inlämningsuppgift3\Beerbliotek\BeerbliotekWebApplication\BeerbliotekWebApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Admin/AdminMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Admin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Login/LoginMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW5NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/MainPage/MainPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpblBhZ2VcTWFpblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tronn/OPA22/Oop_Avancerad/Inlämningsuppgift3/Beerbliotek/BeerbliotekWebApplication/BeerbliotekWebApplication/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-69n9pxlmft

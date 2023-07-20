@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWAklanco6hCDrAyLbrC4qxTT3agCg93G+pXNO+GQcrnnnVt7ur8q6wB/cXuWvjbTOBoDUI4rjchpi3VBCiJ+Q==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\tronn\\OPA22\\Oop_Avancerad\\Inlämningsuppgift3\\Beerbliotek\\BeerbliotekWebApplication\\BeerAPI\\BeerAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\tronn\\OPA22\\Oop_Avancerad\\Inlämningsuppgift3\\Beerbliotek\\BeerbliotekWebApplication\\BeerbliotekWebApplication\\BeerbliotekWebApplication.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\tronn\\OPA22\\Oop_Avancerad\\Inlämningsuppgift3\\Beerbliotek\\BeerbliotekWebApplication\\BeerbliotekWebApplication\\BeerbliotekWebApplication.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

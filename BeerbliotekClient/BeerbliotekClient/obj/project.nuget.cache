@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hIznJBP4joSe+ib/jrz/lTZ+bY8A0//5ja9ow9STkGtGQcXDqP0VXG6iTzcExAeEQOoncrzTVqSeCS0WnHD6ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tronn\\OPA22\\Oop_Avancerad\\Inlämningsuppgift3\\Beerbliotek\\BeerbliotekClient\\BeerbliotekClient\\BeerbliotekClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tronn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
